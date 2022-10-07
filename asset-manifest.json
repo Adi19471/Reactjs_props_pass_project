@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%20//Adi19471.github.io/reactjs_props_project1/static/css/main.5f437f97.css",
+    "main.js": "/%20//Adi19471.github.io/reactjs_props_project1/static/js/main.18e0b18f.js",
+    "static/js/787.ce3db265.chunk.js": "/%20//Adi19471.github.io/reactjs_props_project1/static/js/787.ce3db265.chunk.js",
+    "index.html": "/%20//Adi19471.github.io/reactjs_props_project1/index.html",
+    "main.5f437f97.css.map": "/%20//Adi19471.github.io/reactjs_props_project1/static/css/main.5f437f97.css.map",
+    "main.18e0b18f.js.map": "/%20//Adi19471.github.io/reactjs_props_project1/static/js/main.18e0b18f.js.map",
+    "787.ce3db265.chunk.js.map": "/%20//Adi19471.github.io/reactjs_props_project1/static/js/787.ce3db265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f437f97.css",
+    "static/js/main.18e0b18f.js"
+  ]
+}
